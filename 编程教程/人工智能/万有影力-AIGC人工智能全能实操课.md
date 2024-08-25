@@ -8,13 +8,13 @@
 
 ## 课程简介
 
-下载链接：https://it.dyqufx.com/posts?id=4147
+下载链接：https://it.dyqufx.com/posts?id=4388
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240605073039/665fa39fe98b4.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240825073051/66ca6d2b06152.jpg" width="500" alt="">
 
-  万有影力-AIGC人工智能全能实操课
+  
 
-
+ 万有影力-AIGC人工智能全能实操课
 
  ├──10-第八节-chatgpt的四种类型应用（下）.mp4 24.98M
 
