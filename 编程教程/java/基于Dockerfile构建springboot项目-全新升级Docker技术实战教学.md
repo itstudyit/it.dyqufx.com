@@ -8,7 +8,7 @@
 
 ## 课程简介
 
-下载链接：https://it.dyqufx.com/posts?id=3354
+下载链接：https://it.bcwex.shop/posts?id=3354
 
 <img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515185131/664493b383537.jpg" width="500" alt="">
 

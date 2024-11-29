@@ -8,7 +8,7 @@
 
 ## 课程简介
 
-下载链接：https://it.dyqufx.com/posts?id=903
+下载链接：https://it.bcwex.shop/posts?id=903
 
   学神-Kali零基础Web 安全渗透工程师实战就业班[完结]
 
