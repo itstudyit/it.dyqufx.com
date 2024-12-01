@@ -8,11 +8,11 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4478
+下载链接：https://it.bcwex.shop/posts?id=4764
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241001073006/66fb347eee1fb.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201153155/674c10eb8a94d.jpg" width="500" alt="">
 
-  ,
+  
 
  Kubernetes集群核心概念Service
 
