@@ -8,15 +8,13 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2622
+下载链接：https://it.bcwex.shop/posts?id=5656
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184145/66449169464ed.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163807/674c206fc2031.jpg" width="500" alt="">
 
   使用Unity的全新多人游戏框架制作在线游戏 | Make Online Games Using Unity’s NEW Multiplayer Framework
 
- 国外课程有字幕
 
- 
 
  ├──1. Introduction &amp; Setup
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=405
+下载链接：https://it.bcwex.shop/posts?id=5247
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151912/664461f0ad6b8.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160551/674c18dfba594.jpg" width="500" alt="">
 
   腾讯课堂YouCore中级训练营
 

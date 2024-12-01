@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4128
+下载链接：https://it.bcwex.shop/posts?id=4945
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240530073004/6657ba7c7cab4.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201154551/674c142f40d9e.jpg" width="500" alt="">
 
   小马哥Java训练营第四期Java分布式架构-多活架构
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4103
+下载链接：https://it.bcwex.shop/posts?id=5463
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240528073102/665517b65cdd1.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162247/674c1cd7978b3.jpg" width="500" alt="">
 
   【新盟教育-博雅】HCIA（93期）
 

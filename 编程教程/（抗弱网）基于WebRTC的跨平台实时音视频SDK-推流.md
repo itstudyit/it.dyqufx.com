@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4084
+下载链接：https://it.bcwex.shop/posts?id=4978
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240528073014/665517869f383.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201154709/674c147d1cebb.jpg" width="500" alt="">
 
   （抗弱网）基于WebRTC的跨平台实时音视频SDK-推流
 

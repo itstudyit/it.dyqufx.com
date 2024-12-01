@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4017
+下载链接：https://it.bcwex.shop/posts?id=5727
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515185548/664494b402182.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201164500/674c220c84d17.jpg" width="500" alt="">
 
   蔡老师的AI创作者训练营课程
 

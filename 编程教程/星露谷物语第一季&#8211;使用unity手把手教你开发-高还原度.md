@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=87
+下载链接：https://it.bcwex.shop/posts?id=5035
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151600/66446130eb59d.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155238/674c15c6e6e0c.jpg" width="500" alt="">
 
   星露谷物语第一季 &#8211; 使用unity手把手教你开发-高还原度
 

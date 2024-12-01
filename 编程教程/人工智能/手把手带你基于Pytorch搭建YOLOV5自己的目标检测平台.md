@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=386
+下载链接：https://it.bcwex.shop/posts?id=5237
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151900/664461e4efca7.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160505/674c18b1c0359.jpg" width="500" alt="">
 
   手把手带你基于Pytorch搭建YOLOV5自己的目标检测平台
 

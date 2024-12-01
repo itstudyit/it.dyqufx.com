@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4140
+下载链接：https://it.bcwex.shop/posts?id=4939
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240603073005/665d007d454bd.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201154456/674c13f8854e8.jpg" width="500" alt="">
 
   零声Golang DevOps项目开发
 

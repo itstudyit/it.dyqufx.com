@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=233
+下载链接：https://it.bcwex.shop/posts?id=5126
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151715/6644617bd491a.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155724/674c16e485ee8.jpg" width="500" alt="">
 
   零声C/C++企业级项目实战班
 

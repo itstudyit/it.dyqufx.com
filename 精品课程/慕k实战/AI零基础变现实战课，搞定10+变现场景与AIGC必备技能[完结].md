@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=199
+下载链接：https://it.bcwex.shop/posts?id=5105
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151658/6644616a7c768.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155617/674c16a19eeae.jpg" width="500" alt="">
 
   AI零基础变现实战课，搞定10+变现场景与AIGC必备技能[完结]
 

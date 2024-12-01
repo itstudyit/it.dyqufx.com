@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=171
+下载链接：https://it.bcwex.shop/posts?id=5083
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151643/6644615b53be6.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155514/674c166205d5e.jpg" width="500" alt="">
 
   零基础，Scala系统入门与实战[
 

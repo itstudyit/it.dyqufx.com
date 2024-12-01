@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=32
+下载链接：https://it.bcwex.shop/posts?id=5003
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151531/66446113ab0ec.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155000/674c15280ff3c.jpg" width="500" alt="">
 
   慕课Vue3+Pinia+Vite+TS 还原高性能外卖APP项目
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2639
+下载链接：https://it.bcwex.shop/posts?id=5653
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184155/6644917303353.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163832/674c2088c85c4.jpg" width="500" alt="">
 
   物体检测-YOLO-实战系列
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2587
+下载链接：https://it.bcwex.shop/posts?id=5641
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184123/66449153d41d2.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163656/674c20286b0af.jpg" width="500" alt="">
 
   沐言优拓-Python课程
 

@@ -8,13 +8,13 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=481
+下载链接：https://it.bcwex.shop/posts?id=5290
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515152006/6644622606bba.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201161033/674c19f930bac.jpg" width="500" alt="">
 
   最新版GO面试宝典，助力快速斩获offer，目前只有8章，后续包更新
 
- 
+
 
  ├──&#8211;课程
 
@@ -92,7 +92,7 @@
 
  | | ├──[4.2]&#8211;4-2 怎么准备技术面试才能事半功倍？_ev.mp4 18.49M
 
- | | ├──[4.3]&#8211;4-3 如何回答基础类面试题才能“打动”_ev.mp4 3.16M
+ | | ├──[4.3]&#8211;4-3 如何回答基础类面试题才能&amp;ldquo;打动&amp;rdquo;_ev.mp4 3.16M
 
  | | ├──[4.4]&#8211;4-4 Go包管理的方式有哪些？（一）_ev.mp4 39.40M
 
@@ -220,7 +220,7 @@
 
  | | ├──[8.1]&#8211;8-1 为什么面试官那么喜欢问runtime类型的问题？_ev.mp4 7.56M
 
- | | ├──[8.20]&#8211;8-20 time.Sleep(d)与←time.Af_ev.mp4 13.72M
+ | | ├──[8.20]&#8211;8-20 time.Sleep(d)与&amp;larr;time.Af_ev.mp4 13.72M
 
  | | ├──[8.2]&#8211;8-2 面对Go runtime类问题，教你几招轻松应对_ev.mp4 10.35M
 
@@ -243,5 +243,7 @@
  | └──资料.txt 0.03kb
 
  └──课程地址.txt 0.04kb
+
+ &nbsp;
 
   

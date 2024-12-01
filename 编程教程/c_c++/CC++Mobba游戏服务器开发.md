@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=385
+下载链接：https://it.bcwex.shop/posts?id=5291
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151859/664461e35de2f.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160457/674c18a96d736.jpg" width="500" alt="">
 
   CC++ Mobba游戏服务器开发
 

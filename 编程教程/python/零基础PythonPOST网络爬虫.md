@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2520
+下载链接：https://it.bcwex.shop/posts?id=5582
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184042/6644912af1d5a.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163125/674c1edd0e899.jpg" width="500" alt="">
 
   零基础PythonPOST网络爬虫
 

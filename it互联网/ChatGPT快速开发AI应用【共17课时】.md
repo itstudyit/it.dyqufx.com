@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4027
+下载链接：https://it.bcwex.shop/posts?id=5752
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515185552/664494b8d9048.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201164542/674c223666929.jpg" width="500" alt="">
 
   ChatGPT快速开发AI应用【共17课时】
 

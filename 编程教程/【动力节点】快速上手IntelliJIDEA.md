@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4119
+下载链接：https://it.bcwex.shop/posts?id=5491
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240528073103/665517b7512ce.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162300/674c1ce463d99.jpg" width="500" alt="">
 
   【动力节点】快速上手IntelliJ IDEA
 

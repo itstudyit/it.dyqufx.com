@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=317
+下载链接：https://it.bcwex.shop/posts?id=5204
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151812/664461b4a9820.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160110/674c17c6330c0.jpg" width="500" alt="">
 
   3D视觉工坊 彻底剖析激光-视觉-IMU-GPS融合算法：理论推导、代码讲解和实战
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=61
+下载链接：https://it.bcwex.shop/posts?id=5017
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151546/664461228b26e.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155125/674c157d1f90e.jpg" width="500" alt="">
 
   月神-虚幻4（Unreal Engine4）次世代和VR游戏特效第三期
 

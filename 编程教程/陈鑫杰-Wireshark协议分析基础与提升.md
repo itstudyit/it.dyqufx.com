@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4171
+下载链接：https://it.bcwex.shop/posts?id=5448
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240613152156/666a9e14681aa.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162156/674c1ca413015.jpg" width="500" alt="">
 
   陈鑫杰-Wireshark协议分析基础与提升
 

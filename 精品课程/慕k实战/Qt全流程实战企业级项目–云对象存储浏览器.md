@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=68
+下载链接：https://it.bcwex.shop/posts?id=5021
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151550/6644612625a56.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155131/674c15831d762.jpg" width="500" alt="">
 
   Qt 全流程实战企业级项目 – 云对象存储浏览器
 

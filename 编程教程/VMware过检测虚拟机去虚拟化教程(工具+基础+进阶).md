@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2481
+下载链接：https://it.bcwex.shop/posts?id=5563
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184022/6644911685141.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163015/674c1e9751491.jpg" width="500" alt="">
 
   VMware过检测虚拟机去虚拟化教程(工具+基础+进阶)
 

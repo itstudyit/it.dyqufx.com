@@ -1,4 +1,4 @@
-# AI大模型全栈工程师培养计划（先导课）
+# AI 大模型全栈工程师培养计划（先导课）
 
 ## 联系方式
 
@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4083
+下载链接：https://it.bcwex.shop/posts?id=4966
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240528073016/66551788dc719.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201154755/674c14ab074f5.jpg" width="500" alt="">
 
   AI大模型全栈工程师培养计划（先导课）
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2404
+下载链接：https://it.bcwex.shop/posts?id=5495
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515183936/664490e8e1458.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162522/674c1d726bf02.jpg" width="500" alt="">
 
   企业级Android音视频开发学习路线+项目实战（附源码）
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=178
+下载链接：https://it.bcwex.shop/posts?id=5106
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151646/6644615ea3ac9.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155545/674c16818f1b9.jpg" width="500" alt="">
 
   Spark2.x+协同过滤算法，开发企业级个性化推荐系统
 

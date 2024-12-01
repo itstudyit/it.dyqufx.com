@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4143
+下载链接：https://it.bcwex.shop/posts?id=4930
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240604073004/665e51fcd7928.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201154450/674c13f2e0291.jpg" width="500" alt="">
 
   梗直哥瞿炜-机器学习必修课：经典算法与Python实战
 

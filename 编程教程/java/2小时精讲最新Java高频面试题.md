@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2646
+下载链接：https://it.bcwex.shop/posts?id=5668
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184159/664491771ae4a.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201164013/674c20ed89358.jpg" width="500" alt="">
 
   2 小时精讲最新 Java 高频面试题
 

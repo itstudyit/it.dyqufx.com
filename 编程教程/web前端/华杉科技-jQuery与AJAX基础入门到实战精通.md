@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2554
+下载链接：https://it.bcwex.shop/posts?id=5616
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184102/6644913e17257.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163359/674c1f775e132.jpg" width="500" alt="">
 
   华杉科技-jQuery与AJAX基础入门到实战精通
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=372
+下载链接：https://it.bcwex.shop/posts?id=5218
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151852/664461dc26756.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160417/674c188174ed9.jpg" width="500" alt="">
 
   凯子哥-threejs系列教程
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2439
+下载链接：https://it.bcwex.shop/posts?id=5514
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515183957/664490fd0a351.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162743/674c1dff9064c.jpg" width="500" alt="">
 
   吴东子·AI超级实战课：零基础小白到大神
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4106
+下载链接：https://it.bcwex.shop/posts?id=5468
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240528073102/665517b689d48.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162250/674c1cdaba6d1.jpg" width="500" alt="">
 
   爱编程的大丙-高并发Reactor服务器
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=186
+下载链接：https://it.bcwex.shop/posts?id=5109
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151652/664461642b101.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155553/674c16897a56a.jpg" width="500" alt="">
 
   SpringBoot+Uniapp实战开发全新仿抖音短视频App
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=163
+下载链接：https://it.bcwex.shop/posts?id=5078
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151640/664461580e447.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155454/674c164ec6cdc.jpg" width="500" alt="">
 
   2023年最新红帽9版本rhcsa+rhce
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=316
+下载链接：https://it.bcwex.shop/posts?id=5177
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151811/664461b3eb0f9.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160049/674c17b16389b.jpg" width="500" alt="">
 
   2023老男孩Linux云计算SRE工程师85期
 

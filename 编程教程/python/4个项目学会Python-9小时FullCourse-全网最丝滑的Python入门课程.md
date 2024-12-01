@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2390
+下载链接：https://it.bcwex.shop/posts?id=5482
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515183927/664490df2ffde.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162403/674c1d23347aa.jpg" width="500" alt="">
 
   4个项目学会Python -9小时 Full Course -全网最丝滑的Python入门课程
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4159
+下载链接：https://it.bcwex.shop/posts?id=4926
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240611073005/66678c7dca4db.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201154425/674c13d9d17ac.jpg" width="500" alt="">
 
   牛客C++ 高薪求职项目课程：Linux高并发服务器开发
 

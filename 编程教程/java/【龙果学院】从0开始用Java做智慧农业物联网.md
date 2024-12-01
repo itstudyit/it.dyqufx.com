@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4134
+下载链接：https://it.bcwex.shop/posts?id=4937
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240601073007/665a5d7f57885.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201154546/674c142a278cc.jpg" width="500" alt="">
 
   【龙果学院】从0开始用Java做智慧农业物联网
 

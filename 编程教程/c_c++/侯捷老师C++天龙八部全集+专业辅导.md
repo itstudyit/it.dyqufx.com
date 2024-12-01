@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=598
+下载链接：https://it.bcwex.shop/posts?id=5368
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515152120/66446270ab8b6.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201161602/674c1b4222604.jpg" width="500" alt="">
 
   侯捷老师C++天龙八部全集+专业辅导
 

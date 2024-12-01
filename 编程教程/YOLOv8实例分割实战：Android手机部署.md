@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2516
+下载链接：https://it.bcwex.shop/posts?id=5577
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184040/664491289efae.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163116/674c1ed46b0fb.jpg" width="500" alt="">
 
   YOLOv8实例分割实战：Android手机部署
 

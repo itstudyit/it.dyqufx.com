@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=82
+下载链接：https://it.bcwex.shop/posts?id=5033
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151558/6644612e3d424.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155217/674c15b1924ef.jpg" width="500" alt="">
 
   欢乐斗地主-Unity开发网络棋牌游戏 第二季
 

@@ -8,13 +8,11 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2396
+下载链接：https://it.bcwex.shop/posts?id=5489
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515183931/664490e371070.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162459/674c1d5b41b5c.jpg" width="500" alt="">
 
-  &nbsp;
-
- 嵌入式工程师自我修养系列教程Linux三剑客
+  嵌入式工程师自我修养系列教程Linux三剑客
 
 
 

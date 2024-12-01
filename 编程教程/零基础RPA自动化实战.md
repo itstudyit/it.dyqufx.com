@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2514
+下载链接：https://it.bcwex.shop/posts?id=5578
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184039/664491278761b.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163113/674c1ed1ef87a.jpg" width="500" alt="">
 
   零基础RPA自动化实战
 

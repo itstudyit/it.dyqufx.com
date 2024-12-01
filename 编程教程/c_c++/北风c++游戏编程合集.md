@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=390
+下载链接：https://it.bcwex.shop/posts?id=5241
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151903/664461e720518.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160502/674c18ae5421e.jpg" width="500" alt="">
 
   北风c++游戏编程全部集合
 

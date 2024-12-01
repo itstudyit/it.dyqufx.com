@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=13
+下载链接：https://it.bcwex.shop/posts?id=5064
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151521/66446109d39af.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201154905/674c14f1de6ea.jpg" width="500" alt="">
 
   C++音视频实战-FFmpeg基础到工程-多路H265监控录放开发
 

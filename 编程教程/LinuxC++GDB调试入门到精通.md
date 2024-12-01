@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=308
+下载链接：https://it.bcwex.shop/posts?id=5176
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151806/664461ae6c75c.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160015/674c178fe49a4.jpg" width="500" alt="">
 
   Linux C++ GDB调试入门到精通
 

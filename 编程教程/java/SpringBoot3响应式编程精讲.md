@@ -8,13 +8,11 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2492
+下载链接：https://it.bcwex.shop/posts?id=5559
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184028/6644911c49c54.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163018/674c1e9aae78a.jpg" width="500" alt="">
 
-  SpringBoot3响应式编程精讲
-
-
+  
 
  资源目录
 

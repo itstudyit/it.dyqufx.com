@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2641
+下载链接：https://it.bcwex.shop/posts?id=5657
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184155/66449173d3bef.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163854/674c209eee128.jpg" width="500" alt="">
 
   从零进阶AI人工智能辅助建筑设计，做第一批驾驭AI的建筑师
 

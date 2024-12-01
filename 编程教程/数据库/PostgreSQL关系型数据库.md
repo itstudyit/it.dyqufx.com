@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4193
+下载链接：https://it.bcwex.shop/posts?id=5436
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240622073310/66760db64ef2a.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162107/674c1c730fc42.jpg" width="500" alt="">
 
   PostgreSQL关系型数据库
 

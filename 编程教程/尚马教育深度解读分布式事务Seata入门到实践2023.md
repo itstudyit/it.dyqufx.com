@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=549
+下载链接：https://it.bcwex.shop/posts?id=5339
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515152049/66446251bcd05.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201161336/674c1ab084a9a.jpg" width="500" alt="">
 
   尚马教育 深度解读分布式事务Seata入门到实践2023
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=144
+下载链接：https://it.bcwex.shop/posts?id=5073
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151630/6644614e1a03c.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155426/674c163261248.jpg" width="500" alt="">
 
   慕课 TS从入门到深度掌握,完结无密
 

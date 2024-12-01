@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2511
+下载链接：https://it.bcwex.shop/posts?id=5585
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184038/66449126322cc.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163109/674c1ecd76a49.jpg" width="500" alt="">
 
   三菱PLC视频教程+手册+编程软件+仿真软件
 

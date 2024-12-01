@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=257
+下载链接：https://it.bcwex.shop/posts?id=5553
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151735/6644618f3a961.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163014/674c1e96ce25b.jpg" width="500" alt="">
 
   求知久久-诱人的 TypeScript 视频教程
 

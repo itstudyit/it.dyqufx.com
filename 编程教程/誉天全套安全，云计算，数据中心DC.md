@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=473
+下载链接：https://it.bcwex.shop/posts?id=5320
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151959/6644621f7882c.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160952/674c19d0b9684.jpg" width="500" alt="">
 
   誉天全套安全，云计算，数据中心DC
 

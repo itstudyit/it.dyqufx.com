@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=582
+下载链接：https://it.bcwex.shop/posts?id=5365
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515152112/66446268073c5.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201161524/674c1b1cb05ee.jpg" width="500" alt="">
 
   王道2022年43期C Plus Plus课程
 

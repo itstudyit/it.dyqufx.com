@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2482
+下载链接：https://it.bcwex.shop/posts?id=5550
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184023/66449117011d8.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162952/674c1e808a6b0.jpg" width="500" alt="">
 
   Java图灵-ChatGPT原理剖析2023
 

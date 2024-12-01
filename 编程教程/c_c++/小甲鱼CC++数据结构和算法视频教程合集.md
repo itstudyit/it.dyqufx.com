@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4157
+下载链接：https://it.bcwex.shop/posts?id=5456
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240608073043/66639823b9d53.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162211/674c1cb3bdae6.jpg" width="500" alt="">
 
   小甲鱼C C++ 数据结构和算法视频教程合集
 

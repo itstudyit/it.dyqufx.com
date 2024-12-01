@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4332
+下载链接：https://it.bcwex.shop/posts?id=5687
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240809073155/66b5556b6e595.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201164254/674c218e69666.jpg" width="500" alt="">
 
   
 

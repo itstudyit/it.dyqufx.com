@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=248
+下载链接：https://it.bcwex.shop/posts?id=5142
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151729/664461892f74e.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155756/674c1704bf8b1.jpg" width="500" alt="">
 
   小马哥分布式JAVA训练营第三期
 

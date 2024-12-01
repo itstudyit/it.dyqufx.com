@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2429
+下载链接：https://it.bcwex.shop/posts?id=5506
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515183951/664490f7641ff.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162629/674c1db57df7d.jpg" width="500" alt="">
 
   饥人谷-Webpack源码
 

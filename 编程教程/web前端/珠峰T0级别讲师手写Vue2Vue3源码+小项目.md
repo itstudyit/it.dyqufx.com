@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=584
+下载链接：https://it.bcwex.shop/posts?id=5357
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515152113/6644626945989.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201161529/674c1b2122cd8.jpg" width="500" alt="">
 
   珠峰T0级别讲师手写Vue2Vue3源码+小项目
 

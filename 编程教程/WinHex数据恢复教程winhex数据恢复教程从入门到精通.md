@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2477
+下载链接：https://it.bcwex.shop/posts?id=5547
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184020/664491142f150.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162940/674c1e7448511.jpg" width="500" alt="">
 
   WinHex数据恢复教程winhex数据恢复教程从入门到精通
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=401
+下载链接：https://it.bcwex.shop/posts?id=5239
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151909/664461edbcd5d.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160536/674c18d045e81.jpg" width="500" alt="">
 
   C/C++全栈软件工程师
 

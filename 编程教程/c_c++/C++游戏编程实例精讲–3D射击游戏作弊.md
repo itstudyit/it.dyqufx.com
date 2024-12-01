@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2509
+下载链接：https://it.bcwex.shop/posts?id=5574
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184037/6644912567605.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163117/674c1ed5298ef.jpg" width="500" alt="">
 
   C++游戏编程实例精讲–3D射击游戏作弊
 

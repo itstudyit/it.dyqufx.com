@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2466
+下载链接：https://it.bcwex.shop/posts?id=5538
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184012/6644910c8fc5c.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162859/674c1e4b7173a.jpg" width="500" alt="">
 
   从零实现分布式 KV数据库
 

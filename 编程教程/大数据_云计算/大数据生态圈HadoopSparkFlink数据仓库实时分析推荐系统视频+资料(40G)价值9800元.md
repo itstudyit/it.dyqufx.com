@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=407
+下载链接：https://it.bcwex.shop/posts?id=5244
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151914/664461f2382cb.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160600/674c18e8e00b2.jpg" width="500" alt="">
 
   比屋教育大数据生态圈/Hadoop/Spark/Flink/数据仓库/实时分析/推荐系统 视频+资料(40G) 价值9800元
 

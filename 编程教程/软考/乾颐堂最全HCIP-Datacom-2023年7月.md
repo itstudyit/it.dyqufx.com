@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2542
+下载链接：https://it.bcwex.shop/posts?id=5595
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184056/6644913803104.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163249/674c1f3180f25.jpg" width="500" alt="">
 
   乾颐堂最全HCIP-Datacom-2023年7月
 

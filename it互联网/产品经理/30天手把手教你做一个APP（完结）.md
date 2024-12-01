@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4021
+下载链接：https://it.bcwex.shop/posts?id=5725
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515185549/664494b5bbd7f.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201164508/674c22144614b.jpg" width="500" alt="">
 
   30天手把手教你做一个APP（完结）
 

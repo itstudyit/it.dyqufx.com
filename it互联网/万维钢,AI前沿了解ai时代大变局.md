@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4189
+下载链接：https://it.bcwex.shop/posts?id=5724
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240621073817/6674bd69f1aad.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201164440/674c21f8d457e.jpg" width="500" alt="">
 
   万维钢, AI前沿 了解ai时代大变局
 

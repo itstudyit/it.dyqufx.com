@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=284
+下载链接：https://it.bcwex.shop/posts?id=5165
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151750/6644619ef0fdb.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155936/674c1768a70c7.jpg" width="500" alt="">
 
   SpringBoot+Vue3+MySQL集群 开发大健康体检双系统【完结】
 

@@ -8,13 +8,13 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2584
+下载链接：https://it.bcwex.shop/posts?id=5630
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184122/664491523d2ba.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163554/674c1feaa57ad.jpg" width="500" alt="">
 
   Power BI实战：数据分析可视化
 
- 
+
 
  ├──1.1 Power BI 让数据从未如此性感.mp4 100.93M
 

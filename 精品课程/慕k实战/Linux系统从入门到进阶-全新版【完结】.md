@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=119
+下载链接：https://it.bcwex.shop/posts?id=5062
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151617/664461411b737.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155348/674c160cb6399.jpg" width="500" alt="">
 
   Linux系统 从入门到进阶-全新版【完结】
 

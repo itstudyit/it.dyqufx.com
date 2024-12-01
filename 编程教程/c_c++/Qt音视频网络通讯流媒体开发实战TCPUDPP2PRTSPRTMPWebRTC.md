@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=47
+下载链接：https://it.bcwex.shop/posts?id=5002
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151539/6644611b8d186.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155043/674c15537c1bc.jpg" width="500" alt="">
 
   Qt音视频网络通讯流媒体开发实战TCPUDPP2PRTSPRTMPWebRTC
 

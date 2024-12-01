@@ -8,11 +8,11 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4026
+下载链接：https://it.bcwex.shop/posts?id=5728
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515185552/664494b8454f1.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201164529/674c22293fcca.jpg" width="500" alt="">
 
- 2024Ai必会Agent(应用解读+项目实战)
+  2024Ai必会Agent(应用解读+项目实战)
 
 
 

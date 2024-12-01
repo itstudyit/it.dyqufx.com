@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=371
+下载链接：https://it.bcwex.shop/posts?id=5228
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151851/664461dbb3a9a.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160411/674c187b0e255.jpg" width="500" alt="">
 
   CC++零基础到全栈大神 7天强化训练营
 

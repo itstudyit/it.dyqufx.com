@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=436
+下载链接：https://it.bcwex.shop/posts?id=5261
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151932/6644620403f2a.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160728/674c19404fd68.jpg" width="500" alt="">
 
   珠峰周啸天-JS高级课程
 

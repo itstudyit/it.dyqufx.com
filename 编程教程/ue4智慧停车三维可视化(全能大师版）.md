@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2589
+下载链接：https://it.bcwex.shop/posts?id=5642
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184124/66449154d1565.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163643/674c201b8f79d.jpg" width="500" alt="">
 
   ue4智慧停车三维可视化(全能大师版）
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=381
+下载链接：https://it.bcwex.shop/posts?id=5229
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151856/664461e05cd81.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160446/674c189e4fd90.jpg" width="500" alt="">
 
   python少儿编程课程
 

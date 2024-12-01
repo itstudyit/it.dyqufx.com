@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4095
+下载链接：https://it.bcwex.shop/posts?id=4975
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240528073023/6655178f4ff46.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201154836/674c14d480297.jpg" width="500" alt="">
 
   网易云课堂SpringBoot与SSM博客系统开发
 

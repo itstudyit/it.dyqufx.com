@@ -8,13 +8,11 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4178
+下载链接：https://it.bcwex.shop/posts?id=5451
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240616073315/666e24bbf1111.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162141/674c1c955d6fc.jpg" width="500" alt="">
 
-  Unity2.5DRTS案例-云端战纪
-
-
+  
 
  ├──视频
 

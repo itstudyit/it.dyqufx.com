@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=489
+下载链接：https://it.bcwex.shop/posts?id=5293
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515152010/6644622a9758e.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201161046/674c1a0672f18.jpg" width="500" alt="">
 
   心东web安全全套课程
 

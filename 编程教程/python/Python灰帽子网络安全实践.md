@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2453
+下载链接：https://it.bcwex.shop/posts?id=5539
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184004/66449104a7676.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162837/674c1e35c726b.jpg" width="500" alt="">
 
   《Python灰帽子网络安全实践》降低了网络防范黑客的入门门槛，使其适合所有中小企业和传统企业。课程罗列了常见的攻击手段和防范方法，使网站管理人员具备基本的保护能力。通过Python编程的简单实现，使网络运维变得更简单。同时，课程还深入剖析了各种黑客工具的理论和原理，帮助学习者知其然更知道如何防范于未来。
 

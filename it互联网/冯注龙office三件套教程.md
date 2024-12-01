@@ -8,11 +8,13 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4031
+下载链接：https://it.bcwex.shop/posts?id=5732
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515185555/664494bb2579c.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201164529/674c22295bd19.jpg" width="500" alt="">
 
   
+
+ 包含execl，ppt，word
 
  ├──冯注龙 Excel
 

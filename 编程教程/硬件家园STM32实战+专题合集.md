@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=49
+下载链接：https://it.bcwex.shop/posts?id=5004
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151540/6644611c3170f.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155046/674c1556c7070.jpg" width="500" alt="">
 
   硬件家园STM32实战+专题合集
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=158
+下载链接：https://it.bcwex.shop/posts?id=5074
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151637/6644615593495.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155443/674c1643685ef.jpg" width="500" alt="">
 
   yudao-cloud ，RuoYi-Vue 全新 Cloud 版本，优化重构所有功能
 

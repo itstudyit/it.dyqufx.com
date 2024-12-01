@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2487
+下载链接：https://it.bcwex.shop/posts?id=5546
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184025/664491199a3c9.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162947/674c1e7bd4dc0.jpg" width="500" alt="">
 
   探索Android底层开发
 

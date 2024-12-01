@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2402
+下载链接：https://it.bcwex.shop/posts?id=5493
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515183935/664490e7c927b.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162516/674c1d6c53ecb.jpg" width="500" alt="">
 
   C++TensorRT高性能部署 _ 恩培-计算机视觉
 

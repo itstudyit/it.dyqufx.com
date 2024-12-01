@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=229
+下载链接：https://it.bcwex.shop/posts?id=5125
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151713/6644617980dce.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155709/674c16d53af90.jpg" width="500" alt="">
 
   VueCli3实现外卖类点餐项目
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=503
+下载链接：https://it.bcwex.shop/posts?id=5297
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515152019/664462335298b.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201161058/674c1a127e164.jpg" width="500" alt="">
 
   马哥SRE就业班
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=559
+下载链接：https://it.bcwex.shop/posts?id=5337
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515152057/664462595f7a7.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201161411/674c1ad3c0ed6.jpg" width="500" alt="">
 
   程序员的 AI 启蒙课：ChatGPT 让你 1 人顶 3 人
 

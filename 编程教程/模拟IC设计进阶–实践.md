@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2549
+下载链接：https://it.bcwex.shop/posts?id=5610
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184059/6644913bdd10c.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163342/674c1f664cee5.jpg" width="500" alt="">
 
   模拟IC设计进阶–实践
 

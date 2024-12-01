@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=377
+下载链接：https://it.bcwex.shop/posts?id=5223
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151854/664461de587d3.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160433/674c18912ce53.jpg" width="500" alt="">
 
   【奇境】计算机图形学底层原理-如何从C++独立编写openGL模拟库
 

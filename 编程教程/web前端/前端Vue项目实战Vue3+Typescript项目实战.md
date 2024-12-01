@@ -8,9 +8,7 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2650
-
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184201/664491799a349.jpg" width="500" alt="">
+下载链接：https://it.bcwex.shop/posts?id=5682
 
   前端 Vue项目实战 Vue3+Typescript项目实战
 

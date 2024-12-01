@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2585
+下载链接：https://it.bcwex.shop/posts?id=5632
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184122/66449152bba50.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163636/674c2014ec063.jpg" width="500" alt="">
 
   JS解密逆向实战接单讲解教程
 

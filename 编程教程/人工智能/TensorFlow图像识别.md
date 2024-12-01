@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2521
+下载链接：https://it.bcwex.shop/posts?id=5584
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184043/6644912b70a67.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163146/674c1ef210b41.jpg" width="500" alt="">
 
   TensorFlow图像识别
 

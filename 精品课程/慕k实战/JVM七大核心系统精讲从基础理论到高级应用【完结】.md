@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4181
+下载链接：https://it.bcwex.shop/posts?id=4924
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240621073004/6674bb7c67b5e.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201154346/674c13b2f4167.jpg" width="500" alt="">
 
   JVM七大核心系统精讲 从基础理论到高级应用【完结】
 

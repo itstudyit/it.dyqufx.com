@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=396
+下载链接：https://it.bcwex.shop/posts?id=5236
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151906/664461ea2e483.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160517/674c18bd79ce3.jpg" width="500" alt="">
 
   【新阁教育】机器视觉实战应用VIP进阶课程
 

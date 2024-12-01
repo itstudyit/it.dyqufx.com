@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=127
+下载链接：https://it.bcwex.shop/posts?id=5058
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151620/6644614471fa5.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155353/674c16119011d.jpg" width="500" alt="">
 
   AI人人必修-提示词工程+大模型多场景实战,资料多
 

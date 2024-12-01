@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4167
+下载链接：https://it.bcwex.shop/posts?id=5720
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240612073123/6668de4bbb1e0.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201164448/674c220096fe1.jpg" width="500" alt="">
 
   水哥·AI闪电入门课，用AI帮你成为超级效率达人
 

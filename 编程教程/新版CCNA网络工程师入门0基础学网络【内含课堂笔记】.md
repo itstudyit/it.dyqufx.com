@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=319
+下载链接：https://it.bcwex.shop/posts?id=5192
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151813/664461b5ee1c2.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160119/674c17cfca41b.jpg" width="500" alt="">
 
   新版CCNA网络工程师入门0基础学网络【内含课堂笔记】
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2489
+下载链接：https://it.bcwex.shop/posts?id=5551
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184026/6644911ada056.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162948/674c1e7cb2529.jpg" width="500" alt="">
 
   vue3+ts入门实战用户管理界面
 

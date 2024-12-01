@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=505
+下载链接：https://it.bcwex.shop/posts?id=5313
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515152021/66446235d5c4b.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201161220/674c1a646fd7f.jpg" width="500" alt="">
 
   蔡老板-AST入门实战与JavaScript补环境课程
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2582
+下载链接：https://it.bcwex.shop/posts?id=5662
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184120/6644915040aee.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163550/674c1fe6b7e5c.jpg" width="500" alt="">
 
   路飞学成JavaScript核心编程
 

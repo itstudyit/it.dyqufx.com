@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4152
+下载链接：https://it.bcwex.shop/posts?id=5466
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240607073005/6662467d3de55.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162221/674c1cbd5a383.jpg" width="500" alt="">
 
   鸿蒙原生APP实战-在线商城-视频+源码+文档
 

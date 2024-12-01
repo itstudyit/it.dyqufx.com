@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2471
+下载链接：https://it.bcwex.shop/posts?id=5542
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184016/664491104b15b.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162917/674c1e5d298fb.jpg" width="500" alt="">
 
   狐狸大师与功夫熊猫的NOIP编程之旅
 

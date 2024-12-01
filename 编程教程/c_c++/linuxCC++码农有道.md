@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2653
+下载链接：https://it.bcwex.shop/posts?id=5665
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184203/6644917b51ab5.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163934/674c20c6e6bfd.jpg" width="500" alt="">
 
   linux C/C++ —码农有道
 

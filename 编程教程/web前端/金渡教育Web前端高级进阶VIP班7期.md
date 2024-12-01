@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=508
+下载链接：https://it.bcwex.shop/posts?id=5311
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515152023/66446237dffe2.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201161210/674c1a5ac7123.jpg" width="500" alt="">
 
   金渡教育Web前端高级进阶VIP班-7期
 

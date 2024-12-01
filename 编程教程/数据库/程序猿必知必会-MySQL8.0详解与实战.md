@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2510
+下载链接：https://it.bcwex.shop/posts?id=5205
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184037/66449125b288d.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160325/674c184d08223.jpg" width="500" alt="">
 
   程序猿必知必会-MySQL 8.0详解与实战
 

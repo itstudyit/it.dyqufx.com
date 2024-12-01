@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4104
+下载链接：https://it.bcwex.shop/posts?id=5462
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240528073102/665517b682729.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162242/674c1cd2cbc9a.jpg" width="500" alt="">
 
   Suns架构师之路分布式系列课程(SpringMybatisNettyRPC)，价值数千
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4066
+下载链接：https://it.bcwex.shop/posts?id=4946
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240528073009/66551781aa229.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201154624/674c1450a47e6.jpg" width="500" alt="">
 
   前端跳槽突围课：React18底层源码深入剖析
 

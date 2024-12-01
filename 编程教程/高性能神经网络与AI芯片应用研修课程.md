@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2596
+下载链接：https://it.bcwex.shop/posts?id=5638
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184128/66449158bd191.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163703/674c202fe4435.jpg" width="500" alt="">
 
   高性能神经网络与AI芯片应用研修课程
 

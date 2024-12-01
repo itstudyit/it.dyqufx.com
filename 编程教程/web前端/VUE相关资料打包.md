@@ -8,13 +8,13 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2573
+下载链接：https://it.bcwex.shop/posts?id=5621
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184113/664491494f681.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163524/674c1fccdef1d.jpg" width="500" alt="">
 
   VUE相关资料打包
 
- 
+
 
  ├──!!!-Vue.js 3+TypeScript完全指南
 

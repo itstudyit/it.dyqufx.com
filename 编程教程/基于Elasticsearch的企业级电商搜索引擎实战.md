@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=132
+下载链接：https://it.bcwex.shop/posts?id=5067
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151622/664461469cb19.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155404/674c161ce28ca.jpg" width="500" alt="">
 
   基于Elasticsearch的企业级电商搜索引擎实战
 

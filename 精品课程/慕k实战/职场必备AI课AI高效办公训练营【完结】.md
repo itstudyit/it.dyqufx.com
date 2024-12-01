@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=139
+下载链接：https://it.bcwex.shop/posts?id=5069
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151625/66446149e6735.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155409/674c1621b1cb2.jpg" width="500" alt="">
 
   职场必备AI课 AI高效办公训练营【完结】
 

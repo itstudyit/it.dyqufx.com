@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=93
+下载链接：https://it.bcwex.shop/posts?id=5037
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151603/66446133b986d.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155251/674c15d392f9b.jpg" width="500" alt="">
 
   芋道源码yudao-cloud ，RuoYi-Vue 全新 Cloud 版本，优化重构所有功能
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4101
+下载链接：https://it.bcwex.shop/posts?id=5465
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240528073101/665517b5ec118.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162248/674c1cd896236.jpg" width="500" alt="">
 
   Linux基础命令讲解
 

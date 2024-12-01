@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2537
+下载链接：https://it.bcwex.shop/posts?id=5594
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184053/6644913593718.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163242/674c1f2a86d35.jpg" width="500" alt="">
 
   2022年新Flutter视频教程零基础自学电商APP开发编程实战课程
 

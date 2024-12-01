@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2533
+下载链接：https://it.bcwex.shop/posts?id=5600
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184051/66449133a3698.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163244/674c1f2cb0b1f.jpg" width="500" alt="">
 
   Python114节编程课
 

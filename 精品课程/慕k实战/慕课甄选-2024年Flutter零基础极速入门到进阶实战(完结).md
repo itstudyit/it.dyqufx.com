@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4068
+下载链接：https://it.bcwex.shop/posts?id=4947
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240528073010/6655178255e47.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201154643/674c146361fcf.jpg" width="500" alt="">
 
   慕课甄选-2024年Flutter零基础极速入门到进阶实战(完结)
 

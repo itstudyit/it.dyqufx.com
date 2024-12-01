@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=398
+下载链接：https://it.bcwex.shop/posts?id=5265
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151907/664461eb339cb.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160527/674c18c71e50b.jpg" width="500" alt="">
 
   全栈开发终极专业课程 Promise 前端工程化 VUE React nodejs flutter Hybrid 算法全程
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4117
+下载链接：https://it.bcwex.shop/posts?id=5480
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240528073107/665517bb811a6.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162326/674c1cfed642e.jpg" width="500" alt="">
 
   2022深兰交大AI算法班第五期
 

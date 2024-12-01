@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2400
+下载链接：https://it.bcwex.shop/posts?id=5492
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515183934/664490e6d3588.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162514/674c1d6a5f57d.jpg" width="500" alt="">
 
   JavaEE_企业级项目开发技术
 

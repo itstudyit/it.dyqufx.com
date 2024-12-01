@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=337
+下载链接：https://it.bcwex.shop/posts?id=5197
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151826/664461c211b25.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160239/674c181f60e6c.jpg" width="500" alt="">
 
   VMware Explore 2022（视频+PDF）
 

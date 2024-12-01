@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2611
+下载链接：https://it.bcwex.shop/posts?id=5663
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184138/66449162ac91c.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163723/674c204382361.jpg" width="500" alt="">
 
   openstack私有云
 

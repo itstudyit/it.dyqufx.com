@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4126
+下载链接：https://it.bcwex.shop/posts?id=5470
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240529073039/6656691f367ca.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162233/674c1cc961c85.jpg" width="500" alt="">
 
   CHATGPT-从小白到精通，AI神器+OFFICE全家桶，助力10倍提升工作效率
 

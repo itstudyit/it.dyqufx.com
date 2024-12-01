@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2632
+下载链接：https://it.bcwex.shop/posts?id=5327
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184151/6644916f6edb2.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201161335/674c1aaf66517.jpg" width="500" alt="">
 
   华为数通HCIA-87期
 

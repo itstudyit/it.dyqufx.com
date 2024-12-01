@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4076
+下载链接：https://it.bcwex.shop/posts?id=5469
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240528073014/66551786ae010.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162311/674c1cefbf6f5.jpg" width="500" alt="">
 
   Proteus仿真教程
 

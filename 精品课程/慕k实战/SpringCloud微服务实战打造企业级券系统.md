@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=129
+下载链接：https://it.bcwex.shop/posts?id=5077
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151621/664461452c551.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155401/674c161947f55.jpg" width="500" alt="">
 
   Spring Cloud微服务实战 打造企业级券系统
 

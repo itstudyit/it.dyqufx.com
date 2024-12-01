@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=55
+下载链接：https://it.bcwex.shop/posts?id=5008
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151543/6644611f79717.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155109/674c156d46a30.jpg" width="500" alt="">
 
   MinIO分布式存储从0到Vue+SpringBoot整合开发
 

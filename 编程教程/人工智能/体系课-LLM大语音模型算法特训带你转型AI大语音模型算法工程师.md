@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4086
+下载链接：https://it.bcwex.shop/posts?id=4968
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240528073019/6655178ba380c.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201154815/674c14bfa0f00.jpg" width="500" alt="">
 
   体系课-LLM大语音模型算法特训 带你转型AI大语音模型算法工程师
 

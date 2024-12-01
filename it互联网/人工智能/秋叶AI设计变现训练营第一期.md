@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2531
+下载链接：https://it.bcwex.shop/posts?id=5602
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184050/664491326ffc5.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163221/674c1f15d5ae0.jpg" width="500" alt="">
 
   秋叶AI设计变现训练营第一期
 

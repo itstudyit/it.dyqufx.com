@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2444
+下载链接：https://it.bcwex.shop/posts?id=5517
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515183959/664490ffc342c.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162756/674c1e0c40c59.jpg" width="500" alt="">
 
   GPT4.0完整使用-秘籍宝典：如何GPT大语言模型提高工作效率探索未知领域
 

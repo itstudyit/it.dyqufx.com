@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=331
+下载链接：https://it.bcwex.shop/posts?id=5191
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151822/664461be94297.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160217/674c1809d8403.jpg" width="500" alt="">
 
   鸿蒙系统实战短视频App 从0到1掌握HarmonyOS
 

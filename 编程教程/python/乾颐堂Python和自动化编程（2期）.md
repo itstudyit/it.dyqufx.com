@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2399
+下载链接：https://it.bcwex.shop/posts?id=5544
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515183933/664490e551034.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162440/674c1d4867e1b.jpg" width="500" alt="">
 
   乾颐堂 Python和自动化编程（2期）
 

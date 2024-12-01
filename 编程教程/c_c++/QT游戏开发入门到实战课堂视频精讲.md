@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=206
+下载链接：https://it.bcwex.shop/posts?id=5118
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151702/6644616e19ea3.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155638/674c16b60268e.jpg" width="500" alt="">
 
   QT游戏开发入门到实战课堂视频精讲
 

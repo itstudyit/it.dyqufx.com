@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=146
+下载链接：https://it.bcwex.shop/posts?id=5071
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151631/6644614f0cc2e.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155434/674c163adb281.jpg" width="500" alt="">
 
   CISP认证视频+资料大全
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=497
+下载链接：https://it.bcwex.shop/posts?id=5299
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515152015/6644622f47d64.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201161054/674c1a0e2c388.jpg" width="500" alt="">
 
   网易python web开发
 

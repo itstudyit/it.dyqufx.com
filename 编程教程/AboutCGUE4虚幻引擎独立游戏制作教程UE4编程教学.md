@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2517
+下载链接：https://it.bcwex.shop/posts?id=5581
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184041/6644912916995.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163135/674c1ee7363f9.jpg" width="500" alt="">
 
   AboutCG UE4虚幻引擎独立游戏制作教程 UE4编程教学
 

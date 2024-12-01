@@ -8,11 +8,11 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4229
+下载链接：https://it.bcwex.shop/posts?id=5434
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240705073306/6687313224f41.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162023/674c1c470a64e.jpg" width="500" alt="">
 
-  
+  30
 
  MongoDB最热门NoSql数据库
 

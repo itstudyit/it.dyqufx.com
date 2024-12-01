@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2526
+下载链接：https://it.bcwex.shop/posts?id=5599
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184046/6644912e8fd91.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163154/674c1efa5efc1.jpg" width="500" alt="">
 
   BAT算法特训课程
 
@@ -40,6 +40,6 @@
 
  ├──BAT算法特训班 &#8211; 8.08.查找排序(Av17664182,P8).Flv 198.94M
 
- └──BAT算法特训班 &#8211; 9.09 动态规划上(Av17664182,P9).Flv 555.70
+ └──BAT算法特训班 &#8211; 9.09 动态规划上(Av17664182,P9).Flv 555.70M
 
   

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=365
+下载链接：https://it.bcwex.shop/posts?id=5219
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151847/664461d7945d7.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160404/674c18742be51.jpg" width="500" alt="">
 
   罗剑锋-罗剑锋的C++实战笔记（完结）
 

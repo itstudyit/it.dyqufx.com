@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4092
+下载链接：https://it.bcwex.shop/posts?id=4969
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240528073020/6655178c12846.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201154824/674c14c81d3c3.jpg" width="500" alt="">
 
   一套解决巨石应用痛点的微前端架构方案+多技术栈融合+综合项目实战 从0到1落地微前端架构， MicroApp实战招聘网站
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=306
+下载链接：https://it.bcwex.shop/posts?id=5175
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151805/664461ad3b6b2.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160014/674c178e35c8e.jpg" width="500" alt="">
 
   AI-贪心学院-CV计算机视觉集训营
 

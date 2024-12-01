@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=56
+下载链接：https://it.bcwex.shop/posts?id=5010
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151543/6644611fd0947.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155109/674c156da72d4.jpg" width="500" alt="">
 
   DPDK网络存储虚拟化开发（vpp/OvS/DDos/SDN/NFV/SPDK）
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=91
+下载链接：https://it.bcwex.shop/posts?id=5053
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151602/66446132aa770.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155248/674c15d041014.jpg" width="500" alt="">
 
   【CDA数据分析师】CDA数据分析就业班 &#8211; 0329期
 

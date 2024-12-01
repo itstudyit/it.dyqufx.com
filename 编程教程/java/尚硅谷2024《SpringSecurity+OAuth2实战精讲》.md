@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=236
+下载链接：https://it.bcwex.shop/posts?id=5134
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151717/6644617d89f32.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155734/674c16eea7a3f.jpg" width="500" alt="">
 
   尚硅谷2024《SpringSecurity+OAuth2实战精讲》
 

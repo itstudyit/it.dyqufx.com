@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2593
+下载链接：https://it.bcwex.shop/posts?id=5648
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184127/6644915733f6f.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163701/674c202d14037.jpg" width="500" alt="">
 
   【万门大学】数据结构与算法Python进阶班
 

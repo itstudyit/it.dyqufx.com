@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=293
+下载链接：https://it.bcwex.shop/posts?id=5167
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151755/664461a3eca06.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155957/674c177d826e8.jpg" width="500" alt="">
 
   鸿蒙应用开发进阶(java)
 

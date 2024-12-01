@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2450
+下载链接：https://it.bcwex.shop/posts?id=5526
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184003/66449103157d2.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162835/674c1e33cb6af.jpg" width="500" alt="">
 
   硅量科技-Python从入门到项目实战
 

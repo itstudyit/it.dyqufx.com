@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=434
+下载链接：https://it.bcwex.shop/posts?id=5274
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151930/66446202952a3.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160721/674c193915056.jpg" width="500" alt="">
 
   kotlin项目实战 (手机影音、黑马外卖等)
 

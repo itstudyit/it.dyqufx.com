@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4105
+下载链接：https://it.bcwex.shop/posts?id=5471
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240528073102/665517b67a100.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162302/674c1ce6afa63.jpg" width="500" alt="">
 
   Rust语言 基础入门到应用
 

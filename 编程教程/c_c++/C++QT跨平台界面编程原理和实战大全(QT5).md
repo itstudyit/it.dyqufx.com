@@ -8,11 +8,13 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2627
+下载链接：https://it.bcwex.shop/posts?id=5652
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184147/6644916bb139d.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163833/674c20899879e.jpg" width="500" alt="">
 
-  
+  C++ QT跨平台界面编程原理和实战大全(QT5)
+
+
 
  ├──01 介绍
 

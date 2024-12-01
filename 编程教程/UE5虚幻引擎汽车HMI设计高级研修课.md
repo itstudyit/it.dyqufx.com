@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=325
+下载链接：https://it.bcwex.shop/posts?id=5567
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151819/664461bb4d392.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163049/674c1eb994785.jpg" width="500" alt="">
 
   UE5虚幻引擎汽车HMI设计高级研修课
 

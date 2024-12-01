@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=150
+下载链接：https://it.bcwex.shop/posts?id=5084
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151633/6644615173cf6.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155436/674c163c14b3c.jpg" width="500" alt="">
 
   掘金小册 Nest 通关秘籍
 

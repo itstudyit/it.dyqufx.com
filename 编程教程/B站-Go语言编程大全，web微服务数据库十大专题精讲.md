@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4166
+下载链接：https://it.bcwex.shop/posts?id=5460
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240612073044/6668de242cd0d.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162201/674c1ca9e634d.jpg" width="500" alt="">
 
   B站-Go语言编程大全，web微服务数据库十大专题精讲
 

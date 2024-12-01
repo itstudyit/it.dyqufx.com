@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=124
+下载链接：https://it.bcwex.shop/posts?id=5076
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151619/664461433b2b7.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155351/674c160f48ce8.jpg" width="500" alt="">
 
   Vue3+NestJS 全栈开发企业级管理后台[完结]
 

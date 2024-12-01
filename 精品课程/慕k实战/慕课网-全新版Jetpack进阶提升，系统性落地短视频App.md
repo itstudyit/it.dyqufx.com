@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=27
+下载链接：https://it.bcwex.shop/posts?id=4989
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151529/664461110d3b4.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201154939/674c15137fb00.jpg" width="500" alt="">
 
   慕课网-全新版Jetpack进阶提升，系统性落地短视频App
 

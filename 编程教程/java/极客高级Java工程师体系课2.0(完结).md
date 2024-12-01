@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=540
+下载链接：https://it.bcwex.shop/posts?id=5543
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515152043/6644624b4e113.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201161314/674c1a9a2d463.jpg" width="500" alt="">
 
   Java-极客-高级Java工程师体系课2.0(完结)
 

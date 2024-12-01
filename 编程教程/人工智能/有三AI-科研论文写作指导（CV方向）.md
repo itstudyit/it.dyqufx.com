@@ -8,9 +8,7 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=160
-
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151638/66446156d9627.jpg" width="500" alt="">
+下载链接：https://it.bcwex.shop/posts?id=5079
 
   有三AI-科研论文写作指导（CV方向）
 

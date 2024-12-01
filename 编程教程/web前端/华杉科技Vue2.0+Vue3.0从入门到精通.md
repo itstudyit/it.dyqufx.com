@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2556
+下载链接：https://it.bcwex.shop/posts?id=5624
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184103/6644913f2e24b.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163410/674c1f827534c.jpg" width="500" alt="">
 
   华杉科技Vue2.0+Vue3.0从入门到精通
 

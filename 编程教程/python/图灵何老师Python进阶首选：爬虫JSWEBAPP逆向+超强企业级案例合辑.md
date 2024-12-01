@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2667
+下载链接：https://it.bcwex.shop/posts?id=5677
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184210/664491828a200.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201164054/674c2116cf898.jpg" width="500" alt="">
 
   图灵何老师Python进阶首选：爬虫 JS WEB APP逆向+超强企业级案例合辑
 

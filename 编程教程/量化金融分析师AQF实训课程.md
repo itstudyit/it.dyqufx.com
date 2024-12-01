@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=348
+下载链接：https://it.bcwex.shop/posts?id=5202
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151833/664461c974af3.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160314/674c18424293a.jpg" width="500" alt="">
 
   量化金融分析师AQF实训课程(价值9880元)
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4110
+下载链接：https://it.bcwex.shop/posts?id=5478
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240528073107/665517bb32cfc.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162331/674c1d03b7761.jpg" width="500" alt="">
 
   万门大学《CAD零基础入门精讲》
 

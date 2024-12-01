@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=12
+下载链接：https://it.bcwex.shop/posts?id=4986
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151521/664461092fdfe.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201154903/674c14ef2928b.jpg" width="500" alt="">
 
   珠峰培训js从基础到核心原理到项目实战全套VIP视频
 

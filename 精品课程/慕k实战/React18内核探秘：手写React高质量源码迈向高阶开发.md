@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4078
+下载链接：https://it.bcwex.shop/posts?id=4957
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240528073015/6655178758afa.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201154713/674c1481c7fac.jpg" width="500" alt="">
 
    市面上的很多课程只是分析源码实现的表像，而缺乏对背后规律的探索，这加剧了大家关于源码难学的认知。这门课不仅帮助大家理解 React18 的源码实现，还可以透过现象看到本质，掌握源码背后的思想和规律。同时具备设计前端框架的能力，以及轻松阅读其他前端库的源码的能力，最终提高你的代码开发及设计水平，为成长为前端架构师做好准备。
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=433
+下载链接：https://it.bcwex.shop/posts?id=5264
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151929/664462014051d.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160716/674c1934f3d5b.jpg" width="500" alt="">
 
   狂神go语言直播课
 

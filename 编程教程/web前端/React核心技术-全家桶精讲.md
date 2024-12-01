@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=491
+下载链接：https://it.bcwex.shop/posts?id=5304
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515152011/6644622bb3778.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201161050/674c1a0a4baa4.jpg" width="500" alt="">
 
   React核心技术-全家桶精讲
 

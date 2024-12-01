@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=260
+下载链接：https://it.bcwex.shop/posts?id=5145
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151737/66446191501a4.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155831/674c172769eef.jpg" width="500" alt="">
 
   阿里P7美团T8王校长Spring源码
 

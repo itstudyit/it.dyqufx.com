@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4030
+下载链接：https://it.bcwex.shop/posts?id=5734
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515185554/664494ba7a1c7.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201164541/674c223529d15.jpg" width="500" alt="">
 
   AI产品经理教程合集
 

@@ -8,15 +8,15 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=502
+下载链接：https://it.bcwex.shop/posts?id=5301
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515152018/66446232c1f60.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201161115/674c1a23129e8.jpg" width="500" alt="">
 
-  马哥SRE全新Linux云计算就业+架构套餐班2022
-
- 马哥全新Linux云计算就业+架构套餐班
+  马哥linux云计算sre全程班2022 马哥全新Linux云计算就业+架构套餐班
 
 
+
+ pdf文档有密码，不知道是多少，介意不要购买
 
  ├──课件
 

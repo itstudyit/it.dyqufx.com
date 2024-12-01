@@ -8,13 +8,13 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4631
+下载链接：https://it.bcwex.shop/posts?id=5474
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241129110122/67492e825fe0e.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162227/674c1cc38ee7b.jpg" width="500" alt="">
 
-  
+  万有影力-AIGC人工智能全能实操课
 
- 万有影力-AIGC人工智能全能实操课
+
 
  ├──10-第八节-chatgpt的四种类型应用（下）.mp4 24.98M
 

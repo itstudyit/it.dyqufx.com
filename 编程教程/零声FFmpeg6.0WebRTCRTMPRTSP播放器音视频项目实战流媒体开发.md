@@ -8,13 +8,13 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=368
+下载链接：https://it.bcwex.shop/posts?id=5222
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151849/664461d9ac3b4.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160403/674c1873dfb84.jpg" width="500" alt="">
 
-  FFmpeg音视频流媒体高级开发，原来一直卖的加密课程，今天分享mp4，资料齐全，无密，请不要倒卖传播，仅限自用，毕竟您这里下载也是有记录的，特别是有些喜欢搬运的，已经封禁很多同行了。
+  FFmpeg音视频流媒体高级开发，原来一直卖的加密课程，今天分享mp4，资料齐全，无密，请不要倒卖传播，仅限自用
 
- 换此课程无广告版本mp4，更多加密课程，另外联系
+ 换此课程无广告版本mp4，更多加密课程另外联系，
 
  零声FFmpeg6.0/WebRTC/RTMP/RTSP/播放器/音视频项目实战/流媒体开发
 

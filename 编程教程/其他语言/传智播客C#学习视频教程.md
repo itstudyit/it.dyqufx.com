@@ -8,11 +8,13 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2654
+下载链接：https://it.bcwex.shop/posts?id=5664
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184203/6644917beb1f8.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201164018/674c20f25f500.jpg" width="500" alt="">
 
-  C#学习视频教程
+  
+
+ C#学习视频教程
 
 
 

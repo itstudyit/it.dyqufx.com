@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=177
+下载链接：https://it.bcwex.shop/posts?id=5098
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151646/6644615e264ae.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155541/674c167d6d57e.jpg" width="500" alt="">
 
   【CSDN】Go+Vue通用后台管理项目实战 &#8211; 源码课件齐全
 

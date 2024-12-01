@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=290
+下载链接：https://it.bcwex.shop/posts?id=5170
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151754/664461a2481ae.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155955/674c177b7465d.jpg" width="500" alt="">
 
   2023新版Linux教程，零基础linux系统运维入门到精通视频
 

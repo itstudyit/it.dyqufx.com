@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=387
+下载链接：https://it.bcwex.shop/posts?id=5234
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151901/664461e57ad42.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160508/674c18b4e2ae9.jpg" width="500" alt="">
 
   基于阿里云MaxCompute搭建数据仓库（离线）
 

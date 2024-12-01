@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=120
+下载链接：https://it.bcwex.shop/posts?id=5060
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151617/66446141998fe.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155344/674c16084827f.jpg" width="500" alt="">
 
   图灵-Java高级架构师教程-剑指offer数据结构与算法
 

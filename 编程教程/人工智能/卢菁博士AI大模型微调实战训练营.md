@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=6
+下载链接：https://it.bcwex.shop/posts?id=4982
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151518/664461067ff70.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201154859/674c14ebb2cd5.jpg" width="500" alt="">
 
   卢菁博士AI大模型微调实战训练营
 

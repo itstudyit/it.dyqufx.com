@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2451
+下载链接：https://it.bcwex.shop/posts?id=5524
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184003/664491037e1af.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162838/674c1e3652925.jpg" width="500" alt="">
 
   智能社【VIP】原生JavaScript开发高级课程
 

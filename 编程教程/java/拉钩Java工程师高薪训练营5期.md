@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=567
+下载链接：https://it.bcwex.shop/posts?id=5341
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515152103/6644625feecb7.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201161434/674c1aea121b8.jpg" width="500" alt="">
 
   拉钩Java工程师高薪训练营5期
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=591
+下载链接：https://it.bcwex.shop/posts?id=5367
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515152116/6644626cb7432.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201161554/674c1b3a78818.jpg" width="500" alt="">
 
   软件测试之python高级软件测试开发第14期课件源码齐全，此课程是2023年3月结课版本的直播课，所以和官方有点不一样。
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2420
+下载链接：https://it.bcwex.shop/posts?id=5007
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515183946/664490f2e1d4f.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155048/674c1558bc074.jpg" width="500" alt="">
 
   小飞有点东西【3门python实战课】
 

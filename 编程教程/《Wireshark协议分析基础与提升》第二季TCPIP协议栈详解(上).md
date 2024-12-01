@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2388
+下载链接：https://it.bcwex.shop/posts?id=5481
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515183926/664490de0e91d.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162341/674c1d0d36543.jpg" width="500" alt="">
 
   《Wireshark协议分析基础与提升》第二季 TCP IP协议栈详解(上)
 

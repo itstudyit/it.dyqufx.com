@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2470
+下载链接：https://it.bcwex.shop/posts?id=5537
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184015/6644910fbe0a5.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162917/674c1e5d7911c.jpg" width="500" alt="">
 
   QT实战课程_监控系统
 

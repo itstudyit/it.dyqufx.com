@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4102
+下载链接：https://it.bcwex.shop/posts?id=5464
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240528073102/665517b633351.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162245/674c1cd561f2b.jpg" width="500" alt="">
 
   Java代码审计八套实战环境
 

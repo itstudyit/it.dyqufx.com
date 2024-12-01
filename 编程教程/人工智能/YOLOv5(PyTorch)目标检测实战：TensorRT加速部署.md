@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=204
+下载链接：https://it.bcwex.shop/posts?id=5113
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151701/6644616d5fe7d.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155632/674c16b0e1dfd.jpg" width="500" alt="">
 
   YOLOv5(PyTorch)目标检测实战：TensorRT加速部署
 

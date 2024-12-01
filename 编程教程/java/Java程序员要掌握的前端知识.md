@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2474
+下载链接：https://it.bcwex.shop/posts?id=5549
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184017/66449111adeb7.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162926/674c1e66487c0.jpg" width="500" alt="">
 
   Java程序员要掌握的前端知识
 

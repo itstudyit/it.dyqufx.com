@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2483
+下载链接：https://it.bcwex.shop/posts?id=5558
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184023/6644911787e7b.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163004/674c1e8ca07ea.jpg" width="500" alt="">
 
   光环PMP第六版培训课程
 

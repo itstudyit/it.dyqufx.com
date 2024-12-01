@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=585
+下载链接：https://it.bcwex.shop/posts?id=5355
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515152113/66446269bf43c.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201161531/674c1b23960ea.jpg" width="500" alt="">
 
   深度解析BAT企业Android音视频开发工程师培训
 

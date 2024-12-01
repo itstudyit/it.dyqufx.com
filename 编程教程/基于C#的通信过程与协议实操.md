@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=255
+下载链接：https://it.bcwex.shop/posts?id=5173
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151734/6644618e3223b.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155811/674c1713d5d8f.jpg" width="500" alt="">
 
   基于C#的通信过程与协议实操
 

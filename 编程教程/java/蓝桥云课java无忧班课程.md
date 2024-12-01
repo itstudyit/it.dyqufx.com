@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=221
+下载链接：https://it.bcwex.shop/posts?id=5123
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151709/664461754fb43.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155659/674c16cbb309e.jpg" width="500" alt="">
 
   蓝桥云课java无忧班课程
 

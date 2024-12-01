@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=167
+下载链接：https://it.bcwex.shop/posts?id=5091
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151641/664461598c3d4.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155507/674c165bf38cd.jpg" width="500" alt="">
 
   Python Flask 全流程全栈项目实战【完结】
 

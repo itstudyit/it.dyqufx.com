@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=583
+下载链接：https://it.bcwex.shop/posts?id=5353
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515152112/66446268c43fb.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201161514/674c1b12436fd.jpg" width="500" alt="">
 
   Java项目《尚上优选》
 

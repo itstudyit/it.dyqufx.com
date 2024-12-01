@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=541
+下载链接：https://it.bcwex.shop/posts?id=5324
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515152045/6644624d22b50.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201161307/674c1a9369a6b.jpg" width="500" alt="">
 
   web全栈开发终极专业课程
 

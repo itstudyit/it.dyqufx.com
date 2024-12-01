@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2553
+下载链接：https://it.bcwex.shop/posts?id=5609
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184101/6644913d9e495.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163404/674c1f7c5fc74.jpg" width="500" alt="">
 
   41小时华为HCIA-datacom认证课程
 

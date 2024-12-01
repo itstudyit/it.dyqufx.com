@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2598
+下载链接：https://it.bcwex.shop/posts?id=5639
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184129/66449159cdcb8.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163704/674c203052c5c.jpg" width="500" alt="">
 
   Vue、Django前后端分离项目实战：学生管理系统V4.0
 

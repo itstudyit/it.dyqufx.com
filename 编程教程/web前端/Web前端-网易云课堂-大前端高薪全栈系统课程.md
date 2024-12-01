@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=232
+下载链接：https://it.bcwex.shop/posts?id=5132
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151715/6644617b5f4fa.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155719/674c16dfcc617.jpg" width="500" alt="">
 
   Web前端-网易云课堂-大前端高薪全栈系统课程
 

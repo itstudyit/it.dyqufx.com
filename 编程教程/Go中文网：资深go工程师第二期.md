@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2449
+下载链接：https://it.bcwex.shop/posts?id=5532
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184002/664491028e5cc.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162841/674c1e393d586.jpg" width="500" alt="">
 
   Go中文网：资深go工程师第二期
 

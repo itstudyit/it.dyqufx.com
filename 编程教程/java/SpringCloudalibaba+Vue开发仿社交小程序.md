@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=557
+下载链接：https://it.bcwex.shop/posts?id=5336
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515152056/664462580ce10.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201161358/674c1ac68396d.jpg" width="500" alt="">
 
   拥有好的项目经验，可以大大提高你的面试通过率。课程是一门高质量、完整、实用性强的可商用项目，基于Spring cloud alibaba和微信小程序来完成同城交友小程序，系统UI设计、数据库多应用方案、通用中间件使用、构建oauth2认证授权等多使用技术，课程不仅能掌握技术层面，还具备更好的业务水平，也能顺利地通过面试关。
 

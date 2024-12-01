@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4190
+下载链接：https://it.bcwex.shop/posts?id=5723
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240621073818/6674bd6a6b780.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201164444/674c21fcb7d72.jpg" width="500" alt="">
 
   AI硬核知识-GPT喂养训练，自动化工作，带你了解AI的能力边界
 

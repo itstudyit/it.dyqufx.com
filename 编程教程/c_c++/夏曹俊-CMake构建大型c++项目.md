@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=85
+下载链接：https://it.bcwex.shop/posts?id=5026
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151559/6644612ff0632.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155233/674c15c164956.jpg" width="500" alt="">
 
   夏曹俊-CMake构建大型c++项目
 

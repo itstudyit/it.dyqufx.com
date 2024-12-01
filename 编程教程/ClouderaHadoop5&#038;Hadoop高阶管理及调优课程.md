@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2452
+下载链接：https://it.bcwex.shop/posts?id=5533
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184004/6644910418cac.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162845/674c1e3d1fc6f.jpg" width="500" alt="">
 
   Cloudera Hadoop 5&amp;Hadoop高阶管理及调优课程
 

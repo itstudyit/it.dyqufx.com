@@ -8,11 +8,11 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=314
+下载链接：https://it.bcwex.shop/posts?id=5178
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151809/664461b1968d8.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160105/674c17c1e15c3.jpg" width="500" alt="">
 
-  彻底搞懂基于LOAM框架的3D激光SLAM: 源码剖析到算法优化
+  3D视觉工坊彻底搞懂基于LOAM框架的3D激光SLAM: 源码剖析到算法优化
 
 
 

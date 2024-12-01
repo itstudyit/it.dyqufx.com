@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=198
+下载链接：https://it.bcwex.shop/posts?id=5112
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151658/6644616a10ade.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155632/674c16b07f172.jpg" width="500" alt="">
 
   多模态大模型LLM与AIGC前沿技术实战
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2484
+下载链接：https://it.bcwex.shop/posts?id=5555
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184024/6644911816edd.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163016/674c1e9820ce8.jpg" width="500" alt="">
 
   vue3+ts手写播放器
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=410
+下载链接：https://it.bcwex.shop/posts?id=5245
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151915/664461f3e764b.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160607/674c18efd1a00.jpg" width="500" alt="">
 
   Autoware自动驾驶框架源码剖析与实践
 
@@ -150,7 +150,7 @@
 
  | ├──4.3 roi_objects_filter模块源码解析及实践.mp4 184.85M
 
- | ├──4.4 lidar_kf_contour_track模块源码解析及实践.mp4 299.09M
+ | ├──4.4 lidar_kf_contour_track模块源码解析及实践[菜鸟自学网 cainzy.com].mp4 299.09M
 
  | ├──4.5 拓展：感知算法就业及深入研究指南.mp4 16.63M
 
@@ -170,7 +170,7 @@
 
  | ├──5.3 实践：给车辆添加一个传感器.mp4 159.76M
 
- | ├──5.4 实践：仿真环境下实现定位和感知.mp4 119.61M
+ | ├──5.4 实践：仿真环境下实现定位和感知[菜鸟自学网 cainzy.com].mp4 119.61M
 
  | ├──5.5作业讲解.mp4 60.96M
 

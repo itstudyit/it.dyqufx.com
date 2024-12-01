@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=218
+下载链接：https://it.bcwex.shop/posts?id=5119
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151707/66446173e4d89.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155702/674c16ce5bfae.jpg" width="500" alt="">
 
   蓝桥杯省赛无忧班CC++组第3期
 

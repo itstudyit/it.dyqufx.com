@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4075
+下载链接：https://it.bcwex.shop/posts?id=4956
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240528073014/6655178649ebf.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201154657/674c14717fc42.jpg" width="500" alt="">
 
   SpringBoot3+Vue3 开发高并发秒杀抢购系统
 

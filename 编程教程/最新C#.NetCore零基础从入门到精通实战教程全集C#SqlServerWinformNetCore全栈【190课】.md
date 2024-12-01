@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2605
+下载链接：https://it.bcwex.shop/posts?id=5640
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184135/6644915fd3678.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163714/674c203a0ccd0.jpg" width="500" alt="">
 
   最新C# .Net Core零基础从入门到精通实战教程全集 C# SqlServer Winform Net Core 全栈【190课】
 

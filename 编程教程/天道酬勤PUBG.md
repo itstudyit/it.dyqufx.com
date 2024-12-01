@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4185
+下载链接：https://it.bcwex.shop/posts?id=5447
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240621073258/6674bc2aee220.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162119/674c1c7f34c54.jpg" width="500" alt="">
 
   天道酬勤PUBG
 

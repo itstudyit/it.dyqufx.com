@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4173
+下载链接：https://it.bcwex.shop/posts?id=5453
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240614073822/666b82ee8f68e.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162147/674c1c9bbec4a.jpg" width="500" alt="">
 
   Java程序员阿斌手把手教学-IM项目实战课【聊天室】
 

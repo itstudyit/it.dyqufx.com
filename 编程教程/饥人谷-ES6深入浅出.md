@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2564
+下载链接：https://it.bcwex.shop/posts?id=5627
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184107/66449143b4645.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163515/674c1fc3002bb.jpg" width="500" alt="">
 
   饥人谷-ES6深入浅出
 

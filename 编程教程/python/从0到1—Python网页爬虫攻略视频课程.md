@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2447
+下载链接：https://it.bcwex.shop/posts?id=5521
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184001/664491018bfa4.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162824/674c1e2866148.jpg" width="500" alt="">
 
   从0到1—Python网页爬虫攻略视频课程
 

@@ -1,4 +1,4 @@
-# 一课学透 分布式事务框架 Alibaba Seata【完结】
+# 一课学透分布式事务框架 Alibaba Seata【完结】
 
 ## 联系方式
 
@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=189
+下载链接：https://it.bcwex.shop/posts?id=5101
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151653/66446165e2f40.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155559/674c168fc4409.jpg" width="500" alt="">
 
   一课学透 分布式事务框架 Alibaba Seata【完结】
 

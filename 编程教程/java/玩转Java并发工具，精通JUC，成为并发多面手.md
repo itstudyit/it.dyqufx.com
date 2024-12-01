@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=415
+下载链接：https://it.bcwex.shop/posts?id=5251
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151919/664461f736adc.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160625/674c19017824d.jpg" width="500" alt="">
 
   玩转Java并发工具，精通JUC，成为并发多面手
 

@@ -8,15 +8,13 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=616
+下载链接：https://it.bcwex.shop/posts?id=5380
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515152134/6644627e2cf9b.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201161711/674c1b873932a.jpg" width="500" alt="">
 
   React18+TS+NestJS+GraphQL 全栈开发在线
 
 
-
- ├──解压密码3216441a91a808c98ac42da138a84e29
 
  ├──第10章 全栈开发 PC 管理端课程模块.rar 2.59G
 

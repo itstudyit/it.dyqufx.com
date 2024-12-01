@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=560
+下载链接：https://it.bcwex.shop/posts?id=5342
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515152057/66446259d75e5.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201161412/674c1ad4e15c0.jpg" width="500" alt="">
 
   2023百战程序员JavaEE就业班
 

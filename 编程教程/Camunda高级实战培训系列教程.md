@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=597
+下载链接：https://it.bcwex.shop/posts?id=5364
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515152120/664462704f273.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201161554/674c1b3ab67a6.jpg" width="500" alt="">
 
   Camunda高级实战培训系列教程
 

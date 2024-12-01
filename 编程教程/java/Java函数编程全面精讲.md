@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2411
+下载链接：https://it.bcwex.shop/posts?id=5502
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515183940/664490ec88877.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162608/674c1da0a18e7.jpg" width="500" alt="">
 
   Java函数编程全面精讲
 

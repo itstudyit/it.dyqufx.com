@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=531
+下载链接：https://it.bcwex.shop/posts?id=5332
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515152037/66446245e3715.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201161251/674c1a83b651b.jpg" width="500" alt="">
 
   项目实战代码审计企业级网络Web安全基础
 

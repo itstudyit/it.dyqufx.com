@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=52
+下载链接：https://it.bcwex.shop/posts?id=5011
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151541/6644611dd8de7.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155050/674c155a0f992.jpg" width="500" alt="">
 
   Python机器学习在生物医学SCI论文研究中的运用&#8211;完全版
 

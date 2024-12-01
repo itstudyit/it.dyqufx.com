@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=404
+下载链接：https://it.bcwex.shop/posts?id=5250
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151911/664461ef455ad.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160547/674c18db4df1a.jpg" width="500" alt="">
 
   2022年王道python
 

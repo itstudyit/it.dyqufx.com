@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2572
+下载链接：https://it.bcwex.shop/posts?id=5623
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184112/66449148d6505.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163521/674c1fc940bfc.jpg" width="500" alt="">
 
   豪斯医生数据挖掘之WGCNA详解
 

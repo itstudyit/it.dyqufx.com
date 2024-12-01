@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=287
+下载链接：https://it.bcwex.shop/posts?id=5163
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151752/664461a08a582.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155938/674c176a5b990.jpg" width="500" alt="">
 
   【狂神说Java】从基础到框架到实战
 

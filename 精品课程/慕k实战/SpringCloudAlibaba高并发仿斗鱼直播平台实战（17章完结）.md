@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=98
+下载链接：https://it.bcwex.shop/posts?id=5042
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151605/66446135ebd9c.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155257/674c15d95d563.jpg" width="500" alt="">
 
   SpringCloudAlibaba高并发仿斗鱼直播平台实战（17章完结）
 

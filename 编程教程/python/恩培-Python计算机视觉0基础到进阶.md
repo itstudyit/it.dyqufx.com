@@ -8,13 +8,15 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2395
+下载链接：https://it.bcwex.shop/posts?id=5519
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515183929/664490e1d90a1.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162440/674c1d481a6ef.jpg" width="500" alt="">
 
   恩培-Python计算机视觉0基础到进阶
 
 
+
+ 只有视频，无资料
 
  ├──10_实战项目3：人脸考勤机-实战精讲：人脸考勤机3（项目完整复现）.mp4 279.51M
 

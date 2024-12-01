@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=202
+下载链接：https://it.bcwex.shop/posts?id=5115
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151700/6644616c4f918.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155621/674c16a56f213.jpg" width="500" alt="">
 
   图灵-Java互联网架构师六期|价值12880元|完结无密，课程覆盖互联网技术12大专题，深度源码分析，大厂面试深入讲解，真实项目经验等板块。资深教师团队深度剖析行业前景，带你系统全面学习JAVA架构师工作内容，职位晋升薪资上涨指日可待！课程面向人群急需跳槽涨薪的互联网小白。遭遇技术瓶颈的架构师新手。职业生涯困惑的其他行业人员。
 

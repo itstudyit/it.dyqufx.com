@@ -8,13 +8,11 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4109
+下载链接：https://it.bcwex.shop/posts?id=5475
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240528073106/665517ba23513.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162315/674c1cf3320a1.jpg" width="500" alt="">
 
-  爱编程的大丙C语言视频教程
-
-
+  
 
  ├──C语言基础 &#8211; 全面掌握C编程基础
 

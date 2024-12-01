@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=576
+下载链接：https://it.bcwex.shop/posts?id=5359
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515152108/664462649fb65.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201161507/674c1b0b77a32.jpg" width="500" alt="">
 
   测码学院python全栈自动化测试课程
 

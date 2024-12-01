@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=339
+下载链接：https://it.bcwex.shop/posts?id=5196
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151827/664461c3927b0.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160242/674c18222c516.jpg" width="500" alt="">
 
   Java实战项目100套
 

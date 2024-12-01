@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=107
+下载链接：https://it.bcwex.shop/posts?id=5044
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151610/6644613a8e5cb.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155315/674c15eb6135c.jpg" width="500" alt="">
 
   博学谷-2023 HarmonyOS鸿蒙应用开发线上训练营【1期】
 

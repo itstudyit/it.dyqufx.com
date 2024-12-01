@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=122
+下载链接：https://it.bcwex.shop/posts?id=5068
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151618/664461427470d.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155336/674c16000346d.jpg" width="500" alt="">
 
   鸿蒙HarmonyOS端云一体化开发实践
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2513
+下载链接：https://it.bcwex.shop/posts?id=5570
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184039/6644912723b08.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201163108/674c1ecc3249f.jpg" width="500" alt="">
 
   基于SpringBoot+Mybatis从头搭建通用管理系统(后端篇)
 

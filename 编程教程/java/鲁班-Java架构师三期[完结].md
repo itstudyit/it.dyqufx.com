@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=363
+下载链接：https://it.bcwex.shop/posts?id=5217
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151846/664461d653afa.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160359/674c186fdb87b.jpg" width="500" alt="">
 
   鲁班-Java架构师三期 [完结]
 

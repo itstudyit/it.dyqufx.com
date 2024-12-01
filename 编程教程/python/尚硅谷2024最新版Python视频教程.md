@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4132
+下载链接：https://it.bcwex.shop/posts?id=4941
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240601073007/665a5d7f22262.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201154541/674c142570c5a.jpg" width="500" alt="">
 
   尚硅谷2024最新版Python视频教程
 

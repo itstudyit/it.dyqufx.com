@@ -1,4 +1,4 @@
-# 知识星球 Java达摩院（redis+新版 SpringBoot）
+# 知识星球Java达摩院（redis+新版 Spring Boot）
 
 ## 联系方式
 
@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2475
+下载链接：https://it.bcwex.shop/posts?id=5561
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515184018/6644911267394.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162933/674c1e6d1a9fd.jpg" width="500" alt="">
 
   知识星球Java达摩院（redis+新版 Spring Boot）
 

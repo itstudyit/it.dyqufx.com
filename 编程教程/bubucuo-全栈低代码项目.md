@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4120
+下载链接：https://it.bcwex.shop/posts?id=5672
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240528073106/665517ba76b32.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162320/674c1cf8bfff3.jpg" width="500" alt="">
 
   bubucuo-全栈低代码项目
 

@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=310
+下载链接：https://it.bcwex.shop/posts?id=5174
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151807/664461af775a1.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160034/674c17a2b0f74.jpg" width="500" alt="">
 
   WPF+上位机实战-科技节能管理控制系统
 

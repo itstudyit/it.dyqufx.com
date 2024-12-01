@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=4127
+下载链接：https://it.bcwex.shop/posts?id=4940
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240530073004/6657ba7c75160.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201154600/674c14387360a.jpg" width="500" alt="">
 
   Go从入门到进阶，大厂案例全流程实践(完结)
 

@@ -8,11 +8,13 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=90
+下载链接：https://it.bcwex.shop/posts?id=5029
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151602/66446132316e3.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201155239/674c15c742b7b.jpg" width="500" alt="">
 
   
+
+ 视频点exe就能直接看了
 
  ├──【第10款】网页游戏辅助封包脱机进阶课程 未加密版
 

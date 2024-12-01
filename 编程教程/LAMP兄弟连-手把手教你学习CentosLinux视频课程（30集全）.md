@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=2430
+下载链接：https://it.bcwex.shop/posts?id=5507
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515183951/664490f7daffd.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201162649/674c1dc94475a.jpg" width="500" alt="">
 
   LAMP兄弟连-手把手教你学习Centos Linux视频课程（30集全）
 

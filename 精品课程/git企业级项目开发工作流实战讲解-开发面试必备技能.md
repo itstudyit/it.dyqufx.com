@@ -8,9 +8,9 @@
 
 ## 课程简介
 
-下载链接：https://it.bcwex.shop/posts?id=346
+下载链接：https://it.bcwex.shop/posts?id=5201
 
-<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20240515151832/664461c849bbf.jpg" width="500" alt="">
+<img src="https://ziyuanyun.oss-cn-guangzhou.aliyuncs.com/yun/20241201160300/674c18340cb7d.jpg" width="500" alt="">
 
   git企业级项目开发工作流实战讲解-开发面试必备技能
 
